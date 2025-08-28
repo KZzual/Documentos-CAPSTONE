@@ -5,28 +5,32 @@ Nombres Completos :
 ========================
 Diego Esteban Medel Aguilera
 Tomás Ignacio Durán Leiva
+Hernan Mauricio Chamorro Romero				
 
 RUTs :
 ========================
 20.921.169-6
 20.288.036-3
+19.920.420-3
 
 Correos Institucionales :
 ======================== 
 di.medela@duocuc.cl
 to.leiva@duocuc.cl
+he.chamorro@duocuc.cl
 
 Correos Personales :
 ========================
 diegoskeletontetris@gmail.com
 tomasleiduran@gmail.com 
-
+hernan.mauricio16@gmail.com
 
 Número de contacto:
 ========================
 
 +56 9 8433 0463
 +56 9 9201 0290
++56 9 4803 2479
 
 Drive(Solo por si acaso los documentos no aparecen dentro del repositorio)
 =========================
