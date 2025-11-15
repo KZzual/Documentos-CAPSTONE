@@ -1,0 +1,52 @@
+# Repositorio de APIs y Links de Estudio - Informática
+
+## APIs Públicas para Desarrollo
+
+### APIs de Datos Académicos
+- **Universities List API**: http://universities.hipolabs.com/search?country=
+    - Información de universidades por país
+
+### APIs de Programación y Código
+- **GitHub API**: https://api.github.com
+    - Gestión de repositorios y proyectos
+- **Stack Exchange API**: https://api.stackexchange.com/docs
+    - Preguntas y respuestas de programación
+
+### APIs de Aprendizaje
+- **Quotes API**: https://api.quotable.io/random
+    - Citas motivacionales para estudiantes
+- **Dictionary API**: https://api.dictionaryapi.dev/api/v2/entries/en/{word}
+    - Definiciones de términos técnicos
+
+### APIs de Utilidad
+- **JSONPlaceholder**: https://jsonplaceholder.typicode.com
+    - API de prueba para desarrollo
+- **Random User API**: https://randomuser.me/api/
+    - Datos de usuarios para testing
+
+## Links de Estudio - Informática
+
+### Documentación Oficial
+- MDN Web Docs: https://developer.mozilla.org/
+- W3Schools: https://www.w3schools.com/
+- DevDocs: https://devdocs.io/
+
+### Cursos Online
+- FreeCodeCamp: https://www.freecodecamp.org/
+- Codecademy: https://www.codecademy.com/
+- Coursera Computer Science: https://www.coursera.org/browse/computer-science
+
+### Práctica y Ejercicios
+- LeetCode: https://leetcode.com/
+- HackerRank: https://www.hackerrank.com/
+- Codewars: https://www.codewars.com/
+
+### Recursos Adicionales
+- Stack Overflow: https://stackoverflow.com/
+- GitHub Learning Lab: https://lab.github.com/
+- GeeksforGeeks: https://www.geeksforgeeks.org/
+
+## Notas
+- Todas las APIs listadas son públicas y gratuitas
+- Algunas APIs pueden requerir registro o API key
+- Verificar documentación antes de implementar
